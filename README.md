@@ -32,7 +32,7 @@
 
 ![alt text](https://i.hizliresim.com/6qAlvm.png)
 
-13-) Şimdi ise burda'ya çift tıklayın. Parantezi kopyalayın ve canliDers dosyasını 6. adımdaki gibi açın. tik='' kısmına tırnak içinde yapıştırın. Örnek: tik='(x=719, y=163)'
+13-) Şimdi ise burda isimli dosyaya çift tıklayın. Parantezi kopyalayın ve canliDers dosyasını 6. adımdaki gibi açın. En alt satırın sonna  yapıştırın. Örnek: pyautogui.click(x=1005, y=77)
 
 14-) Kaydetip kapatın. 
 
