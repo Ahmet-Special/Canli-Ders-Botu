@@ -75,6 +75,4 @@ time.sleep(70)
 bassme2=tarayıcı.find_element_by_xpath('//*[@id="join"]')
 bassme2.click()
 time.sleep(10)
-pyautogui.click(#BURAYA)
-
-
+pyautogui.click
