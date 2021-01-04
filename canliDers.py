@@ -6,7 +6,6 @@ import time
 
 tc = 'TCBURAYA'
 passwd = 'PAROLABURAYA'
-tik = ''
 
 os.system("cls")
 def check_ders_input(ders_time):
@@ -76,6 +75,6 @@ time.sleep(70)
 bassme2=tarayıcı.find_element_by_xpath('//*[@id="join"]')
 bassme2.click()
 time.sleep(10)
-pyautogui.click(tik)
+pyautogui.click(#BURAYA)
 
 
