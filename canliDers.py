@@ -4,9 +4,9 @@ from selenium import webdriver
 import os
 import time
 
-tc='TCBURAYA'
-passwd='PAROLABURAYA'
-tik=''
+tc = 'TCBURAYA'
+passwd = 'PAROLABURAYA'
+tik = ''
 
 os.system("cls")
 def check_ders_input(ders_time):
