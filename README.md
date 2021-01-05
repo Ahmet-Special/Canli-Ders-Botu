@@ -22,7 +22,7 @@
 
 9-) Kaydetin ve kapatın.
 
-#HENÜZ BİTMEDİ 
+# HENÜZ BİTMEDİ 
 
 10-) Dersiniz başladığında BOT'a çift tıklayın. Saati bir dakika sonra olarak girin.
 
@@ -36,5 +36,5 @@
 
 14-) Kaydetip kapatın. 
 
-#Artık Hazırsınız,  BOT Dosyasına Çift Tıklayın Dersinizin Başlıyacağı Saati girin.
+# Artık Hazırsınız,  BOT Dosyasına Çift Tıklayın Dersinizin Başlıyacağı Saati girin.
 
