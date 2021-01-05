@@ -8,13 +8,13 @@
 
 ![alt text](https://i.hizliresim.com/J7QYMs.png)
 
-3-) Code'ye basın. Downlaod ZIP'e basın.İnmeye başlıyacak. Zip dosyasından çıkartın. 
+3-) Code'a basın. Downlaod ZIP'e basın.İnmeye başlıyacak. Zip dosyasından çıkartın. 
 
 4-) pipInstaller dosyasına çift tıklayın. 
 
 5-) Kurulum bitince (Çıkan siyah ekran kapanınca) pipInstaler'ı silebilirsiniz. 
 
-6-) canliDers'e sağ tıklayın, birlikte aça basın, not defterini seçin 
+6-) canliDers'e sağ tıklayın, birlikte aça basın, not defterini seçin. 
 
 7-) tc= kısmına kendi tc numaranızı 2 tırnak arasında girin. Örnek: tc='12345678910'
 
