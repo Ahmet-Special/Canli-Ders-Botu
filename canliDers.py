@@ -1,4 +1,4 @@
-﻿import datetime
+import datetime
 import pyautogui
 from selenium import webdriver
 import os
@@ -57,22 +57,22 @@ print("Derse Basladi")
 os.system("cls")
 os.system("canliDersOtomasyonProgramim")
 
-tarayıcı=webdriver.Chrome()
+tarayici=webdriver.Chrome()
 
-hedef=tarayıcı.get("https://giris.eba.gov.tr/EBA_GIRIS/giris.jsp")
+hedef=tarayici.get("https://giris.eba.gov.tr/EBA_GIRIS/giris.jsp")
 time.sleep(4)
-username=tarayıcı.find_element_by_name("tckn")
-password=tarayıcı.find_element_by_name("password")
-giriş_buton=tarayıcı.find_element_by_xpath('/html/body/div[2]/div/div[1]/div/div[2]/form/div[5]/button')
+username=tarayici.find_element_by_name("tckn")
+password=tarayici.find_element_by_name("password")
+giriş_buton=tarayici.find_element_by_xpath('/html/body/div[2]/div/div[1]/div/div[2]/form/div[5]/button')
 time.sleep(3)
 username.send_keys(tc)
 password.send_keys(passwd)
 giriş_buton.click()
 time.sleep(5)
-bassme=tarayıcı.find_element_by_xpath('//*[@id="joinMeeting"]')
+bassme=tarayici.find_element_by_xpath('//*[@id="joinMeeting"]')
 bassme.click()
 time.sleep(70)
-bassme2=tarayıcı.find_element_by_xpath('//*[@id="join"]')
+bassme2=tarayici.find_element_by_xpath('//*[@id="join"]')
 bassme2.click()
 time.sleep(10)
 pyautogui.click
